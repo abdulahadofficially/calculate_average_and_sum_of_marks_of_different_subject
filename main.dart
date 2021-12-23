@@ -1,4 +1,4 @@
-import 'thislogic.dart';
+import 'logic.dart';
 
 void main() {
   var sum = Result();
